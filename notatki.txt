@@ -1,1 +1,3 @@
 dodatkowa treść w pliku notatki
+
+KOlejne zmieny wprowadzone do pliku notatki :
